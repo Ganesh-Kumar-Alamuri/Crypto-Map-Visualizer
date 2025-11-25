@@ -1,0 +1,124 @@
+{
+   "lines": [
+      {
+         "id": "pair-1",
+         "from": "ex-1",
+         "to": "ex-8",
+         "startLat": 37.7749,
+         "startLng": -122.4194,
+         "endLat": -33.8688,
+         "endLng": 151.2093,
+         "arcAlt": 0.52,
+         "status": true,
+         "order": 1
+      },
+      {
+         "id": "pair-2",
+         "from": "ex-2",
+         "to": "ex-5",
+         "startLat": 40.7128,
+         "startLng": -74.006,
+         "endLat": 1.3521,
+         "endLng": 103.8198,
+         "arcAlt": 0.48,
+         "status": false,
+         "order": 2
+      },
+      {
+         "id": "pair-3",
+         "from": "ex-3",
+         "to": "ex-10",
+         "startLat": 51.5074,
+         "startLng": -0.1278,
+         "endLat": -33.4489,
+         "endLng": -70.6693,
+         "arcAlt": 0.6,
+         "status": true,
+         "order": 3
+      },
+      {
+         "id": "pair-4",
+         "from": "ex-4",
+         "to": "ex-16",
+         "startLat": 52.3676,
+         "startLng": 4.9041,
+         "endLat": 28.7041,
+         "endLng": 77.1025,
+         "arcAlt": 0.36,
+         "status": true,
+         "order": 4
+      },
+      {
+         "id": "pair-5",
+         "from": "ex-6",
+         "to": "ex-11",
+         "startLat": 22.3193,
+         "startLng": 114.1694,
+         "endLat": 42.3601,
+         "endLng": -71.0589,
+         "arcAlt": 0.44,
+         "status": false,
+         "order": 5
+      },
+      {
+         "id": "pair-6",
+         "from": "ex-7",
+         "to": "ex-12",
+         "startLat": 35.6762,
+         "startLng": 139.6503,
+         "endLat": 47.3769,
+         "endLng": 8.5417,
+         "arcAlt": 0.33,
+         "status": true,
+         "order": 6
+      },
+      {
+         "id": "pair-7",
+         "from": "ex-9",
+         "to": "ex-19",
+         "startLat": 50.1109,
+         "startLng": 8.6821,
+         "endLat": -36.8485,
+         "endLng": 174.7633,
+         "arcAlt": 0.57,
+         "status": false,
+         "order": 7
+      },
+      {
+         "id": "pair-8",
+         "from": "ex-13",
+         "to": "ex-15",
+         "startLat": 19.4326,
+         "startLng": -99.1332,
+         "endLat": -26.2041,
+         "endLng": 28.0473,
+         "arcAlt": 0.39,
+         "status": true,
+         "order": 8
+      },
+      {
+         "id": "pair-9",
+         "from": "ex-14",
+         "to": "ex-17",
+         "startLat": 43.6532,
+         "startLng": -79.3832,
+         "endLat": 13.7563,
+         "endLng": 100.5018,
+         "arcAlt": 0.46,
+         "status": true,
+         "order": 9
+      },
+      {
+         "id": "pair-10",
+         "from": "ex-18",
+         "to": "ex-20",
+         "startLat": -6.2088,
+         "startLng": 106.8456,
+         "endLat": 25.2854,
+         "endLng": 51.531,
+         "arcAlt": 0.35,
+         "status": false,
+         "order": 10
+      }
+   ]
+}

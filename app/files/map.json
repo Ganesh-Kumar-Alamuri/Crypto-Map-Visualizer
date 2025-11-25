@@ -1,0 +1,185 @@
+{
+   "type": "map",
+   "coords": [
+      {
+         "text": "ex-1",
+         "country": "Binance - SFO",
+         "lat": 37.7749,
+         "lng": -122.4194,
+         "provider": "AWS",
+         "region": "us-west-1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-2",
+         "country": "Binance - NYC",
+         "lat": 40.7128,
+         "lng": -74.006,
+         "provider": "GCP",
+         "region": "us-east1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-3",
+         "country": "OKX - LON",
+         "lat": 51.5074,
+         "lng": -0.1278,
+         "provider": "Azure",
+         "region": "eu-west-2",
+         "size": 0.5
+      },
+      {
+         "text": "ex-4",
+         "country": "Bybit - AMS",
+         "lat": 52.3676,
+         "lng": 4.9041,
+         "provider": "AWS",
+         "region": "eu-west-1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-5",
+         "country": "Deribit - SIN",
+         "lat": 1.3521,
+         "lng": 103.8198,
+         "provider": "GCP",
+         "region": "asia-southeast1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-6",
+         "country": "Kraken - HKG",
+         "lat": 22.3193,
+         "lng": 114.1694,
+         "provider": "Azure",
+         "region": "asia-east",
+         "size": 0.5
+      },
+      {
+         "text": "ex-7",
+         "country": "Bitfinex - TYO",
+         "lat": 35.6762,
+         "lng": 139.6503,
+         "provider": "AWS",
+         "region": "ap-northeast-1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-8",
+         "country": "KuCoin - SYD",
+         "lat": -33.8688,
+         "lng": 151.2093,
+         "provider": "GCP",
+         "region": "australia-southeast1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-9",
+         "country": "Huobi - FRA",
+         "lat": 50.1109,
+         "lng": 8.6821,
+         "provider": "Azure",
+         "region": "eu-central",
+         "size": 0.5
+      },
+      {
+         "text": "ex-10",
+         "country": "Gate - SCL",
+         "lat": -33.4489,
+         "lng": -70.6693,
+         "provider": "AWS",
+         "region": "sa-east-1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-11",
+         "country": "Coinbase - BOS",
+         "lat": 42.3601,
+         "lng": -71.0589,
+         "provider": "GCP",
+         "region": "us-east4",
+         "size": 0.5
+      },
+      {
+         "text": "ex-12",
+         "country": "Bitstamp - ZRH",
+         "lat": 47.3769,
+         "lng": 8.5417,
+         "provider": "Azure",
+         "region": "eu-west",
+         "size": 0.5
+      },
+      {
+         "text": "ex-13",
+         "country": "OKX - MEX",
+         "lat": 19.4326,
+         "lng": -99.1332,
+         "provider": "AWS",
+         "region": "latam-west1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-14",
+         "country": "Bybit - TOR",
+         "lat": 43.6532,
+         "lng": -79.3832,
+         "provider": "GCP",
+         "region": "northamerica-northeast1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-15",
+         "country": "Deribit - JNB",
+         "lat": -26.2041,
+         "lng": 28.0473,
+         "provider": "Azure",
+         "region": "africa-south-1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-16",
+         "country": "Binance - DEL",
+         "lat": 28.7041,
+         "lng": 77.1025,
+         "provider": "AWS",
+         "region": "asia-south",
+         "size": 0.5
+      },
+      {
+         "text": "ex-17",
+         "country": "Kraken - BKK",
+         "lat": 13.7563,
+         "lng": 100.5018,
+         "provider": "GCP",
+         "region": "ap-southeast-1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-18",
+         "country": "Bitfinex - JKT",
+         "lat": -6.2088,
+         "lng": 106.8456,
+         "provider": "Azure",
+         "region": "asia-southeast2",
+         "size": 0.5
+      },
+      {
+         "text": "ex-19",
+         "country": "KuCoin - AKL",
+         "lat": -36.8485,
+         "lng": 174.7633,
+         "provider": "AWS",
+         "region": "oceania-1",
+         "size": 0.5
+      },
+      {
+         "text": "ex-20",
+         "country": "Gate - DOH",
+         "lat": 25.2854,
+         "lng": 51.531,
+         "provider": "GCP",
+         "region": "me-central-1",
+         "size": 0.5
+      }
+   ]
+}
